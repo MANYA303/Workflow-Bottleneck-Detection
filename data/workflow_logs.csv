@@ -1,0 +1,17 @@
+task_id,stage,start_time,end_time
+T001,Assigned,09:00,09:15
+T001,In Progress,09:15,11:30
+T001,Review,11:30,13:00
+T001,Done,13:00,13:05
+T002,Assigned,10:00,10:10
+T002,In Progress,10:10,12:40
+T002,Review,12:40,14:20
+T002,Done,14:20,14:25
+T003,Assigned,11:00,11:20
+T003,In Progress,11:20,14:10
+T003,Review,14:10,15:40
+T003,Done,15:40,15:50
+T004,Assigned,12:00,12:15
+T004,In Progress,12:15,15:45
+T004,Review,15:45,16:50
+T004,Done,16:50,17:00
